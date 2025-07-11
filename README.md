@@ -1,7 +1,7 @@
 
 
 <!-- HEADER -->
-<h1 align="center">Hi there, I'm Vikas Sitaram Amale 👋</h1>
+<h1 align="center">Hi there, I'm Vikas Amale 👋</h1>
 <h3 align="center">🚀 Final Year Computer Engineering Student | Java | Python | AI/ML | Full Stack Developer</h3>
 
 <p align="center">
