@@ -19,7 +19,7 @@
 - 🌱 Learning **Advanced Java (Spring Boot), Python Libraries, and Cloud Deployments**
 - 💬 Ask me about **C++, Java, Python, AI/ML, React, Node.js, Spring Boot**
 - 📫 Reach me at: **[vickyamale2004@gmail.com](mailto:vickyamale2004@gmail.com)**
-- 🔗 Connect with me on: **[LinkedIn](https://www.linkedin.com/in/vikas-amale/)**
+- 🔗 Connect with me on: **[LinkedIn](https://www.linkedin.com/in/vikas-amale/)** 
   
 
 
@@ -27,13 +27,17 @@
 
 ### 🛠️ Tech Stack
 
-Languages   : C++, Java, Python, JavaScript
-Frameworks  : Spring Boot, Node.js, Express.js, React.js
-Frontend    : HTML, CSS, JavaScript, EJS
-Backend     : MongoDB, MySQL
-Testing     : JUnit, Mockito
-Build Tools : Maven
-AI/ML Tools : Scikit-learn, Pandas, NumPy
+### 🛠️ Tech Stack
+
+| Category       | Technologies                                  |
+|----------------|-----------------------------------------------|
+| Languages      | C++, Java, Python, JavaScript                 |
+| Frameworks     | Spring Boot, Node.js, Express.js, React.js    |
+| Frontend       | HTML, CSS, JavaScript, EJS                    |
+| Backend        | MongoDB, MySQL                                |
+| Testing        | JUnit, Mockito                                |
+| Build Tools    | Maven                                         |
+| AI/ML Tools    | Scikit-learn, Pandas, NumPy                   |
 
 
 📂 Featured Projects
