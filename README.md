@@ -2,7 +2,7 @@
 
 <!-- HEADER -->
 <h1 align="center">Hi there, I'm Vikas Amale 👋</h1>
-<h3 align="center">🚀 Final Year Computer Engineering Student | Java | Spring Boot | Python | AI/ML |React| Full Stack Developer</h3>
+<h3 align="center">🚀 Final Year Computer Engineering Student | Java | Spring Boot | Python | AI/ML | React | Full Stack Developer</h3>
 
 <p align="center">
   <a href="https://github.com/VikasAmale">
