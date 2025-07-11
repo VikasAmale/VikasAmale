@@ -25,7 +25,6 @@
 
 ---
 
-### 🛠️ Tech Stack
 
 ### 🛠️ Tech Stack
 
@@ -40,12 +39,20 @@
 | AI/ML Tools    | Scikit-learn, Pandas, NumPy                   |
 
 
-📂 Featured Projects
-🚨 **[Credit Card Fraud Detection](https://github.com/VikasAmale/Credit_Card_Fraud_Detection_System/)**
-Built a machine learning model to detect fraudulent credit card transactions.
+### 📂 Featured Projects
 
-🔗 **[URL Shortener Platform](https://github.com/VikasAmale/URL-SHORTENER-PLATFORM)**
-A fully functional link shortener with EJS frontend, Express backend, and MongoDB database.
+- 🚨 **[Credit Card Fraud Detection](https://github.com/VikasAmale/Credit_Card_Fraud_Detection_System/)**<br>
+  Built a machine learning model to detect fraudulent credit card transactions.
+
+- 🔗 **[URL Shortener Platform](https://github.com/VikasAmale/URL-SHORTENER-PLATFORM)**<br>
+  A fully functional link shortener with EJS frontend, Express backend, and MongoDB database.
+
+- 🔍 **Customer Churn Prediction System** *(Not uploaded)*<br>
+  Predicts customer churn using ML techniques to help businesses retain users.
+
+- 🧪 **Online Exam Portal** *(Not uploaded)*<br>
+  A role-based online exam system using Java, Spring Boot, React, and MySQL.
+
 
 
 📫 Connect with Me
