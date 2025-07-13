@@ -1,15 +1,26 @@
+
 <!-- VikasAmale/README.md -->
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="50px" />  
-  Hey, I'm <span style="color:#00ffff;">Vikas Amale</span>  
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="50px" />
+  Hey there, I'm <span style="color:#00ffff;">Vikas Amale</span>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+%7C+MERN+Stack+Dev+%7C+Final+Year+Engineer;Passionate+about+AI%2FML+%7C+Fast+Learner;Loves+to+Build+Cool+and+Scalable+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+%7C+MERN+Stack+Developer+%7C+Final+Year+Engineer;AI+%7C+ML+%7C+SpringBoot+%7C+React+%7C+Node.js;Code.+Debug.+Repeat.+🚀" alt="Typing SVG" />
 </p>
 
+
+
+## 🚀 About Me
+
+
+👨‍💻 Title:  Full-Stack Developer | Java | Python | AI/ML
+🎓 Degree:  Final Year Engineering Student
+🔧 Tools:   Spring Boot, MERN Stack, Python, AI/ML
+🚀 Goal:    Build real-world impactful AI-driven solutions
+💡 Motto:   Write clean code. Keep learning. Keep building.
 
 ## 🚀 About Me
 
@@ -72,10 +83,10 @@
 
 
 
----
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00f7ff&height=200&section=footer&text=Thanks%20for%20visiting%20✨&fontSize=30&fontAlignY=40" />
 </p>
-```
----
+
+
