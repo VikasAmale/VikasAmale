@@ -1,3 +1,8 @@
+<!-- Particle Background GIF -->
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1186261/screenshots/3718681/media/fc51bc4f54f8ee5812dfb1320eec4d57.gif" width="100%" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=👋+Hey+there!+I'm+Vikas+Amale+👨‍💻;🎓+Final+Year+Engineering+Student+•+Java+Developer+•+AI/ML+Enthusiast;+Turning+☕+Coffee+into+Code+🚀+•+Always+Learning+💡" alt="Typing SVG" />
 </p>
