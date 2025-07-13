@@ -1,3 +1,4 @@
+
 <!-- 🌌 PARTICLE BACKGROUND -->
 <p align="center">
   <img src="https://i.ibb.co/VgKmh78/particle-bg.gif" width="100%" alt="particle background">
@@ -38,24 +39,12 @@
 <!-- 🚀 CRAZY PROJECT GRID -->
 <h3 align="center">🚀 My Top Projects</h3>
 
-<table align="center" width="100%">
-<tr>
-  <td align="center">
-    <img src="https://readme-components.vercel.app/api?component=project&project=Smart+Face+Lock&description=AI+based+door+lock&tech=Python,OpenCV,Arduino&theme=dark" />
-  </td>
-  <td align="center">
-    <img src="https://readme-components.vercel.app/api?component=project&project=Real+Estate+Analysis&description=Market+Trend+Insights&tech=Python,Pandas,Matplotlib&theme=dark" />
-  </td>
-</tr>
-<tr>
-  <td align="center">
-    <img src="https://readme-components.vercel.app/api?component=project&project=URL+Shortener&description=Short+URL+Generator&tech=Node,EJS,MongoDB&theme=dark" />
-  </td>
-  <td align="center">
-    <img src="https://readme-components.vercel.app/api?component=project&project=YouTube+Predictor&description=Predict+video+success+ML&tech=Python,Streamlit,ML&theme=dark" />
-  </td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VikasAmale&repo=Smart-Face-Lock&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VikasAmale&repo=Real-Estate-Analysis&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VikasAmale&repo=URL-Shortener&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VikasAmale&repo=YouTube-Success-Predictor&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
