@@ -10,7 +10,6 @@
 - 🌱 Currently learning: DevOps, Advanced ML  
 - 🧠 Motto: _"Write clean code. Keep learning. Keep building."_
 
----
 
 ## 🧰 Tech Toolbox
 
@@ -18,17 +17,15 @@
   <img src="https://skillicons.dev/icons?i=java,python,spring,react,nodejs,mongodb,mysql,git,github,html,css,js,bootstrap" />
 </p>
 
----
 
 ## 🚀 My Top Projects
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
 | 🔒 **Smart Face Lock** | Python, OpenCV, Arduino | Face-recognition based smart door lock |
-| 📊 **Real Estate Analysis** | Python, Pandas, Matplotlib | Insightful data visualization for real estate |
+| **URL Shortener** | Node.js, MongoDB, EJS | A secure and fast short URL generator |
 | 📹 **YouTube Success Predictor** | Python, ML, Streamlit | Predicts video success using ML models |
 
----
 
 ## 📊 GitHub Stats
 
@@ -39,7 +36,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikasAmale&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
----
 
 ## 🌐 Let’s Connect
 
@@ -48,8 +44,6 @@
   <a href="mailto:vickyamale2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/VikasAmale"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-
----
 
 ## ✨ Quote That Drives Me
 
