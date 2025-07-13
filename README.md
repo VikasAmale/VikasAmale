@@ -4,9 +4,6 @@
 
 </h1>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f7ff&height=150&section=header&text=Welcome%20to%20My%20World%20🌐&fontSize=35&fontAlignY=35&fontAlign=50"/>
-</p>
 
 ## 🔥 About Me
 
