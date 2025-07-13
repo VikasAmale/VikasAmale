@@ -23,7 +23,7 @@
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
 | 🔒 **Smart Face Lock** | Python, OpenCV, Arduino | Face-recognition based smart door lock |
-| **URL Shortener** | Node.js, MongoDB, EJS | A secure and fast short URL generator |
+| 🔗 **URL Shortener** | Node.js, MongoDB, EJS | A secure and fast short URL generator |
 | 📹 **YouTube Success Predictor** | Python, ML, Streamlit | Predicts video success using ML models |
 
 
