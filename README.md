@@ -2,15 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=👋+Hey+there!+I'm+Vikas+Amale+👨‍💻;🎓+Final+Year+Engineering+Student+•+Java+Developer+•+AI/ML+Enthusiast;+Turning+☕+Coffee+into+Code+🚀+•+Always+Learning+💡" alt="Typing SVG" />
 </p>
 
-</h1>
-
-
 ## 🔥 About Me
 
-- 🎓 Final Year Engineering Student
-- 💻 Full-Stack Developer | Java | MERN | AI/ML
-- 🛠️ Skilled in: Spring Boot, React, Node.js, Python, MongoDB
-- 🌱 Currently learning: DevOps, Advanced ML
+- 🎓 Final Year Engineering Student  
+- 💻 Full-Stack Developer | Java | MERN | AI/ML  
+- 🛠️ Skilled in: Spring Boot, React, Node.js, Python, MongoDB  
+- 🌱 Currently learning: DevOps, Advanced ML  
 - 🧠 Motto: _"Write clean code. Keep learning. Keep building."_
 
 ---
@@ -25,11 +22,11 @@
 
 ## 🚀 My Top Projects
 
-| 🔗 Project | 🔧 Tech Stack | 🔍 Description |
-|-----------|---------------|----------------|
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
 | 🔒 **Smart Face Lock** | Python, OpenCV, Arduino | Face-recognition based smart door lock |
 | 📊 **Real Estate Analysis** | Python, Pandas, Matplotlib | Insightful data visualization for real estate |
-| 🔗 **URL Shortener** | Node.js, MongoDB, EJS | A secure and fast short URL generator |
+| **URL Shortener** | Node.js, MongoDB, EJS | A secure and fast short URL generator |
 | 📹 **YouTube Success Predictor** | Python, ML, Streamlit | Predicts video success using ML models |
 
 ---
@@ -60,8 +57,6 @@
 
 > _"Write once, run anywhere."_  
 > <p align="right">— That's why I chose Java, but I code everywhere ⚡</p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00f7ff&height=200&section=footer&text=Thanks%20for%20visiting!%20🌟&fontSize=30&fontAlignY=40" />
