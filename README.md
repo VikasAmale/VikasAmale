@@ -1,8 +1,5 @@
 <!-- VikasAmale/README.md -->
 
-<p align="center">
-  <img src="https://i.gifer.com/ZZ5H.gif" width="200"/>
-</p>
 
 <h2 align="center">Hey there! I'm <span style="color:#00ffff;">Vikas Amale</span> 👨‍💻</h2>
 
