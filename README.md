@@ -42,11 +42,18 @@
 <h3 align="center">📈 GitHub Stats</h3>
 
 <p align="center">
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=VikasAmale&label=Profile%20Views&color=0ff7ff&style=for-the-badge" alt="Vikas Amale's Profile Views"/>
+
+  <br><br>
+
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=VikasAmale&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VikasAmale&theme=tokyonight&hide_border=true" width="48%"/>
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikasAmale&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 </p>
+
 
 ---
 
