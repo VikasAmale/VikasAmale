@@ -26,7 +26,6 @@
 |--------|------------|-------------|
 | 🔒 **Smart Face Lock** | Python, OpenCV, Arduino | Face-recognition based smart door lock |
 | 📊 **Real Estate Analysis** | Python, Pandas, Matplotlib | Insightful data visualization for real estate |
-| **URL Shortener** | Node.js, MongoDB, EJS | A secure and fast short URL generator |
 | 📹 **YouTube Success Predictor** | Python, ML, Streamlit | Predicts video success using ML models |
 
 ---
@@ -48,7 +47,6 @@
   <a href="https://www.linkedin.com/in/vikas-amale" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:vickyamale2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/VikasAmale"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://vikasamale.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white"/></a>
 </p>
 
 ---
