@@ -51,17 +51,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=VikasAmale&show_icons=true&theme=tokyonight&hide_border=true&hide=prs,stars,contribs" width="70%"/>
 </p>
 
-<p align="center">
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VikasAmale&theme=tokyonight&hide_border=true" width="70%"/>
-</p>
-
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikasAmale&layout=compact&theme=tokyonight&hide_border=true" width="50%"/>
-</p>
-
-
 
 ---
 
