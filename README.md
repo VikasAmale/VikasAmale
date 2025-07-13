@@ -47,10 +47,15 @@
 
   <br><br>
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=VikasAmale&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <!-- Main GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=VikasAmale&show_icons=true&theme=tokyonight&hide_border=true&hide=prs,stars,contribs" width="48%"/>
+
+  <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VikasAmale&theme=tokyonight&hide_border=true" width="48%"/>
+
   <br><br>
+
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikasAmale&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 </p>
 
