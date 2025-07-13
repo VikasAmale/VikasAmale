@@ -1,7 +1,10 @@
 <!-- VikasAmale/README.md -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Vikas+Amale+👨‍💻;Final+Year+Engineer+%7C+Java+MERN+Stack+Dev+%7C+AI+%7C+ML+Enthusiast;Turning+Coffee+%E2%98%95+into+Code+🚀;Always+Learning+%7C+Always+Building+💡" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Vikas+Amale+👨‍💻;Final+Year+Engineer+%7C+Java+Developer+%7C+AI+%7C+ML+Enthusiast;Turning+Coffee+☕+into+Code+🚀;Always+Learning+%7C+Always+Building+💡" alt="Typing SVG" />
+</p>
+
 </h1>
 
 <p align="center">
