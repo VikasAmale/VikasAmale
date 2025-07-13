@@ -1,14 +1,12 @@
-
 <!-- VikasAmale/README.md -->
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="50px" />
   Hey there, I'm <span style="color:#00ffff;">Vikas Amale</span>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+%7C+MERN+Stack+Developer+%7C+Final+Year+Engineer;AI+%7C+ML+%7C+SpringBoot+%7C+React+%7C+Node.js;Code.+Debug.+Repeat.+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+%7C+MERN+Stack+Developer+%7C+Final+Year+Engineer;AI+%7C+ML+%7C+SpringBoot+%7C+React+%7C+Node.js;Code.+Debug.+Repeat.+🚀" alt="Typing SVG" />
 </p>
 
 
@@ -21,17 +19,6 @@
 🔧 Tools:   Spring Boot, MERN Stack, Python, AI/ML
 🚀 Goal:    Build real-world impactful AI-driven solutions
 💡 Motto:   Write clean code. Keep learning. Keep building.
-
-## 🚀 About Me
-
-- 💻 Passionate Java Developer with strong foundation in **Spring Boot**, **React**, and **REST APIs**
-- 🤖 Exploring the world of **AI/ML**, currently building smart applications using **Python**
-- 🔐 Built a **Face Recognition Smart Door Lock System**
-- 📊 Created a **Real Estate Data Analysis Platform**
-- 💡 Believe in writing clean, scalable, and maintainable code
-- 📬 Connect with me for collaborations, freelance work, or discussions!
-
-
 
 ## 🧰 Tech Stack
 
