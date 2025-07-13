@@ -1,17 +1,16 @@
-
 <!-- 🌌 PARTICLE BACKGROUND -->
 <p align="center">
   <img src="https://i.ibb.co/VgKmh78/particle-bg.gif" width="100%" alt="particle background">
 </p>
 
 <!-- 🧠 TYPING ANIMATION WITH GLOW -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0FFFD1&center=true&vCenter=true&width=1000&lines=👋+Hey+I'm+Vikas+Amale+👨‍💻;💻+Engineer+%7C+Java+%7C+ML+%7C+MERN;☕+Turning+Coffee+into+Code+🚀;⚡+Always+Learning+%7C+Always+Shipping" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=800&duration=2000&color=0FFFD1&center=true&vCenter=true&width=1000&lines=👋+Hey+I'm+Vikas+Amale+👨‍💻;💻+Engineer+%7C+Java+%7C+ML+%7C+MERN;☕+Turning+Coffee+into+Code+🚀;⚡+Always+Learning+%7C+Always+Shipping" />
+</p>
 
 <!-- 🌈 GLOWING MOTTO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&duration=2500&pause=800&color=00F7FF&width=800&lines=🔥+Build+Something+that+Makes+People+Say+'Wow!'+" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=24&duration=2000&pause=700&color=00F7FF&width=900&lines=🔥+Build+Something+that+Makes+People+Say+'Wow!'" />
 </p>
 
 ---
@@ -26,7 +25,7 @@
 ---
 
 <!-- 🔮 SKILL ICONS -->
-<h3 align="center">🛠️ My Tech Arsenal</h3>
+<h3 align="center">🛠 My Tech Arsenal</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,spring,react,nodejs,mongodb,mysql,git,github,html,css,js,bootstrap" />
@@ -75,7 +74,7 @@
 <!-- 🧾 QUOTE -->
 <h3 align="center">✨ Quote That Drives Me</h3>
 
-> _"Write once, run anywhere."_  
+> "Write once, run anywhere."  
 > <p align="right">— That's why I chose Java, but I code everywhere ⚡</p>
 
 ---
