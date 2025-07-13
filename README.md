@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=👋+Hey+there!+I'm+Vikas+Amale+👨‍💻;🎓+Final+Year+Engineering+Student+•+Java+Developer+•+AI/ML+Enthusiast;+Turning+☕+Coffee+into+Code+🚀+•+Always+Learning+💡" alt="Typing SVG" />
 </p>
 
-
+---
 
 
 
@@ -20,7 +20,7 @@
 - 🌱 Currently learning: DevOps, Advanced ML  
 - 🧠 Motto: _"Write clean code. Keep learning. Keep building."_
 
-
+---
 <!-- 🔮 SKILL ICONS -->
 <h3 align="center">🛠 My Tech Arsenal</h3>
 
@@ -31,7 +31,7 @@
 </p>
 
 
-
+---
 🚀 Highlight Projects
 <table align="center" style="width:100%;border-spacing: 15px;"> <tr> <td align="center" width="45%" style="background:#0f172a;border-radius:20px;padding:20px;border:2px solid #00f7ff;box-shadow:0 0 15px #00f7ff;"> <h3>🔒 Smart Face Lock</h3> <p><strong>Tech:</strong> Python, OpenCV, Arduino</p> <p>Face recognition based smart door lock</p> </td> <td align="center" width="45%" style="background:#0f172a;border-radius:20px;padding:20px;border:2px solid #00f7ff;box-shadow:0 0 15px #00f7ff;"> <h3>📊 Real Estate Analysis</h3> <p><strong>Tech:</strong> Python, Pandas, Matplotlib</p> <p>Visualize market trends and pricing insights</p> </td> </tr> <tr> <td align="center" style="background:#0f172a;border-radius:20px;padding:20px;border:2px solid #00f7ff;box-shadow:0 0 15px #00f7ff;"> <h3>✂️ URL Shortener</h3> <p><strong>Tech:</strong> Node.js, MongoDB, EJS</p> <p>Generate secure, fast short links</p> </td> <td align="center" style="background:#0f172a;border-radius:20px;padding:20px;border:2px solid #00f7ff;box-shadow:0 0 15px #00f7ff;"> <h3>📹 YouTube Success Predictor</h3> <p><strong>Tech:</strong> Python, Streamlit, ML</p> <p>Predicts video performance using ML models</p> </td> </tr> </table>
 
@@ -49,7 +49,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=VikasAmale&show_icons=true&theme=tokyonight&hide_border=true&hide=prs,stars,contribs" width="70%"/>
 </p>
 
-
+---
 
 
 <!-- 🌐 CONTACT BADGES -->
@@ -62,7 +62,7 @@
 </p>
 
 
-
+---
 <!-- 🧾 QUOTE -->
 <h3 align="center">✨ Quote That Drives Me</h3>
 
