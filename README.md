@@ -14,7 +14,8 @@
 - 💻 Full-Stack Developer | Java | MERN | AI/ML  
 - 🛠️ Skilled in: Spring Boot, React, Node.js, Python, MongoDB  
 - 🌱 Currently learning: DevOps, Advanced ML  
-- 🧠 Motto: _"Write clean code. Keep learning. Keep building."_
+- 🧠 Motto: _"Write clean code. Keep learning. Keep building."
+  </div>
 
 
 ## 🧰 Tech Toolbox
