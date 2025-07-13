@@ -7,9 +7,9 @@
 
 <!-- 💼 ABOUT ME CARD -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Passionate%20Engineer-%2300f7ff?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Passionate%20Engineer-%2300f7ff?style=for-the-badge&logo=python&logoColor=black"/>
   <img src="https://img.shields.io/badge/AI/ML-Enthusiast-%2300f7ff?style=for-the-badge&logo=sklearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Full%20Stack-Java%20%7C%20MERN-%2300f7ff?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Full%20Stack-Java%20%7C%20MERN-%2300f7ff?style=for-the-badge&logo=react&logoColor=black"/>
 </div>
 
 ---
