@@ -4,7 +4,7 @@
 <h2 align="center">Hey there! I'm <span style="color:#00ffff;">Vikas Amale</span> 👨‍💻</h2>
 
 <p align="center">
-  Final Year Engineer • Java Developer • AI/ML Enthusiast <br/>
+  Final Year Engineering Student • Java Developer • AI/ML Enthusiast <br/>
   Turning ☕ into Code 🚀 • Always Learning 💡
 </p>
 
