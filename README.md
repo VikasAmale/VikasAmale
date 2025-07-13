@@ -20,14 +20,8 @@
 
 <div align="center" style="margin: 20px 0;"> <img src="https://skillicons.dev/icons?i=java,python,spring,react,nodejs,mongodb,mysql,git,github,html,css,js,bootstrap" /> <br><br> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> </div>
 
-
-## 🚀 My Top Projects
-
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| 🔒 **Smart Face Lock** | Python, OpenCV, Arduino | Face-recognition based smart door lock |
-| 🔗 **URL Shortener** | Node.js, MongoDB, EJS | A secure and fast short URL generator |
-| 📹 **YouTube Success Predictor** | Python, ML, Streamlit | Predicts video success using ML models |
+🚀 Highlight Projects
+<table align="center" style="width:100%;border-spacing: 15px;"> <tr> <td align="center" width="45%" style="background:#0f172a;border-radius:20px;padding:20px;border:2px solid #00f7ff;box-shadow:0 0 15px #00f7ff;"> <h3>🔒 Smart Face Lock</h3> <p><strong>Tech:</strong> Python, OpenCV, Arduino</p> <p>Face recognition based smart door lock</p> </td> <td align="center" width="45%" style="background:#0f172a;border-radius:20px;padding:20px;border:2px solid #00f7ff;box-shadow:0 0 15px #00f7ff;"> <h3>📊 Real Estate Analysis</h3> <p><strong>Tech:</strong> Python, Pandas, Matplotlib</p> <p>Visualize market trends and pricing insights</p> </td> </tr> <tr> <td align="center" style="background:#0f172a;border-radius:20px;padding:20px;border:2px solid #00f7ff;box-shadow:0 0 15px #00f7ff;"> <h3>✂️ URL Shortener</h3> <p><strong>Tech:</strong> Node.js, MongoDB, EJS</p> <p>Generate secure, fast short links</p> </td> <td align="center" style="background:#0f172a;border-radius:20px;padding:20px;border:2px solid #00f7ff;box-shadow:0 0 15px #00f7ff;"> <h3>📹 YouTube Success Predictor</h3> <p><strong>Tech:</strong> Python, Streamlit, ML</p> <p>Predicts video performance using ML models</p> </td> </tr> </table>
 
 
 ## 📊 GitHub Stats
