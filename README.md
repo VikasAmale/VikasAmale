@@ -25,16 +25,8 @@
 
 ---
 
-<!-- 🚀 CRAZY PROJECT GRID -->
-<h3 align="center">🚀 My Top Projects</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VikasAmale&repo=Smart-Face-Lock&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VikasAmale&repo=Real-Estate-Analysis&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VikasAmale&repo=URL-Shortener&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VikasAmale&repo=YouTube-Success-Predictor&theme=tokyonight&hide_border=true" />
-</p>
-
+🚀 Highlight Projects
+<table align="center" style="width:100%;border-spacing: 15px;"> <tr> <td align="center" width="45%" style="background:#0f172a;border-radius:20px;padding:20px;border:2px solid #00f7ff;box-shadow:0 0 15px #00f7ff;"> <h3>🔒 Smart Face Lock</h3> <p><strong>Tech:</strong> Python, OpenCV, Arduino</p> <p>Face recognition based smart door lock</p> </td> <td align="center" width="45%" style="background:#0f172a;border-radius:20px;padding:20px;border:2px solid #00f7ff;box-shadow:0 0 15px #00f7ff;"> <h3>📊 Real Estate Analysis</h3> <p><strong>Tech:</strong> Python, Pandas, Matplotlib</p> <p>Visualize market trends and pricing insights</p> </td> </tr> <tr> <td align="center" style="background:#0f172a;border-radius:20px;padding:20px;border:2px solid #00f7ff;box-shadow:0 0 15px #00f7ff;"> <h3>✂️ URL Shortener</h3> <p><strong>Tech:</strong> Node.js, MongoDB, EJS</p> <p>Generate secure, fast short links</p> </td> <td align="center" style="background:#0f172a;border-radius:20px;padding:20px;border:2px solid #00f7ff;box-shadow:0 0 15px #00f7ff;"> <h3>📹 YouTube Success Predictor</h3> <p><strong>Tech:</strong> Python, Streamlit, ML</p> <p>Predicts video performance using ML models</p> </td> </tr> </table>
 ---
 
 <!-- 🧠 STATS WITH ANIMATED GRAPH -->
