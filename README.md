@@ -10,8 +10,8 @@
 
 ## 🔥 About Me
 <div align="center">
-  <img src="https://img.shields.io/badge/Java%20Developer-%2300f7ff?style=for-the-badge&logo=java&logoColor=black"/>
-  <img src="https://img.shields.io/badge/AI%2FML%20Enthusiast-%2300f7ff?style=for-the-badge&logo=tensorflow&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java%20Developer-%231f2937?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%2FML%20Enthusiast-%231f2937?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </div>
 
 
