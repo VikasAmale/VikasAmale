@@ -7,7 +7,6 @@
 
 
 ## 🔥 About Me
-
 + 🔥 Passionate Engineer | Problem Solver | Tech Explorer
 - 🎓 Final Year Engineering Student  
 - 💻 Full-Stack Developer | Java | MERN | AI/ML  
