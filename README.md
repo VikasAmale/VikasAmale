@@ -17,10 +17,10 @@
 
 - 🔥 Passionate Engineer | Problem Solver | Tech Explorer
 - 🎓 Final Year Engineering Student  
-- 💻 Full-Stack Developer | Java | MERN | AI/ML  
-- 🛠️ Skilled in: Spring Boot, React, Node.js, Python, MongoDB  
+- 💻 Full-Stack Developer | Java | AI/ML  
+- 🛠️ Skilled in: Spring Boot, React,Python, MongoDB  
 - 🌱 Currently learning: DevOps, Advanced ML  
-- 🧠 Motto: _"Write clean code. Keep learning. Keep building."
+- 🧠 Motto: _"Write clean code. Keep learning. Keep building."_
 ---
 
 <!-- 🔮 SKILL ICONS -->
