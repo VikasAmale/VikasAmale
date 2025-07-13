@@ -1,17 +1,7 @@
-<!-- 🌌 PARTICLE BACKGROUND -->
 <p align="center">
-  <img src="https://i.ibb.co/VgKmh78/particle-bg.gif" width="100%" alt="particle background">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=👋+Hey+there!+I'm+Vikas+Amale+👨‍💻;🎓+Final+Year+Engineering+Student+•+Java+Developer+•+AI/ML+Enthusiast;+Turning+☕+Coffee+into+Code+🚀+•+Always+Learning+💡" alt="Typing SVG" />
 </p>
 
-<!-- 🧠 TYPING ANIMATION WITH GLOW -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=800&duration=2000&color=0FFFD1&center=true&vCenter=true&width=1000&lines=👋+Hey+I'm+Vikas+Amale+👨‍💻;💻+Engineer+%7C+Java+%7C+ML+%7C+MERN;☕+Turning+Coffee+into+Code+🚀;⚡+Always+Learning+%7C+Always+Shipping" />
-</p>
-
-<!-- 🌈 GLOWING MOTTO -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=24&duration=2000&pause=700&color=00F7FF&width=900&lines=🔥+Build+Something+that+Makes+People+Say+'Wow!'" />
-</p>
 
 ---
 
