@@ -20,54 +20,48 @@
   <img src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
 </p>
 
----
+## 🚀 About Me
 
-### 🧠 About Me
-name: Vikas Sitaram Amale
-role: Java & MERN Stack Developer
-education: Final Year Engineering Student
-passions:
-  - Clean Code
-  - AI/ML
-  - Backend Development
-  - Scalable Systems
-currently_learning: AI + Data Structures + System Design
-email: vickyamale2004@gmail.com
-
-
-
-🛠️ Tech Toolbox
-
-💻 Languages:
-Java JavaScript Python C
-
-🌐 Frontend:
-React.js EJS HTML5 CSS3 
-
-⚙️ Backend:
-Node.js Express.js Spring Boot
-
-🛢️ Databases:
-MongoDB MySQL
-
-🧪 Tools:
-Git Postman Figma VSCode IntelliJ
-
+- 💻 Passionate Java Developer with strong foundation in **Spring Boot**, **React**, and **REST APIs**
+- 🤖 Exploring the world of **AI/ML**, currently building smart applications using **Python**
+- 🔐 Built a **Face Recognition Smart Door Lock System**
+- 📊 Created a **Real Estate Data Analysis Platform**
+- 💡 Believe in writing clean, scalable, and maintainable code
+- 📬 Connect with me for collaborations, freelance work, or discussions!
 
 ---
 
-🚀 Highlight Projects
+## 🧰 Tech Stack
 
-Project	Description	Tech
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
-🔗 URL Shortener	Custom short links with analytics & auth	Node.js, MongoDB, EJS
-🤖 AI Churn Prediction	Predict customer churn using ML models	Python, Scikit-learn
-📺 YouTube Success Predictor	Predict video performance via metadata	Python, Pandas, Matplotlib
-🔐 Smart Door Lock System	Face Recognition + Arduino-controlled servo	Python, OpenCV, Arduino
+
+## 📌 Featured Projects
+
+- 🔒 **Smart Face Recognition Door Lock** – Python + OpenCV + Arduino  
+- 📉 **Real Estate Data Analysis** – Python + Pandas + Matplotlib  
+- 🔗 **URL Shortener** – Node.js + Express + MongoDB + EJS  
+- 🧠 **YouTube Success Predictor** – Machine Learning + Streamlit
 
 
 
----
+
+
+
+
+
+
+
+
 
 📈 GitHub Stats
 
