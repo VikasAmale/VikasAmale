@@ -8,14 +8,13 @@
 
 ## 🔥 About Me
 
-<div align="center" style="padding:20px;border-radius:16px;background:#0f172a;border:1px solid #00f7ff;box-shadow:0 0 20px #00f7ff;transition:0.3s;">
-
++ 🔥 Passionate Engineer | Problem Solver | Tech Explorer
 - 🎓 Final Year Engineering Student  
 - 💻 Full-Stack Developer | Java | MERN | AI/ML  
 - 🛠️ Skilled in: Spring Boot, React, Node.js, Python, MongoDB  
 - 🌱 Currently learning: DevOps, Advanced ML  
 - 🧠 Motto: _"Write clean code. Keep learning. Keep building."
-  </div>
+
 
 
 ## 🧰 Tech Toolbox
