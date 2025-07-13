@@ -1,13 +1,9 @@
 <!-- VikasAmale/README.md -->
 
 
-<h2 align="center">Hey there! I'm <span style="color:#00ffff;">Vikas Amale</span> 👨‍💻</h2>
-
 <p align="center">
-  Final Year Engineering Student • Java Developer • AI/ML Enthusiast <br/>
-  Turning ☕ into Code 🚀 • Always Learning 💡
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&color=00F7FF&width=800&lines=Hey+there!+I'm+Vikas+Amale+👨‍💻;Final+Year+Engineering+Student+•+Java+Developer+•+AI/ML+Enthusiast;Turning+☕+into+Code+🚀+•+Always+Learning+💡" alt="Typing SVG" />
 </p>
-
 
 </h1>
 
