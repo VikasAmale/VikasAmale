@@ -6,12 +6,20 @@
 ---
 
 <!-- 💼 ABOUT ME CARD -->
+
+
+## 🔥 About Me
 <div align="center">
-  <img src="https://img.shields.io/badge/Passionate%20Engineer-%2300f7ff?style=for-the-badge&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/AI/ML-Enthusiast-%2300f7ff?style=for-the-badge&logo=sklearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Full%20Stack-Java%20%7C%20MERN-%2300f7ff?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-Developer-%23f89820?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%2FML-Enthusiast-%2300f7ff?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </div>
 
+- 🔥 Passionate Engineer | Problem Solver | Tech Explorer
+- 🎓 Final Year Engineering Student  
+- 💻 Full-Stack Developer | Java | MERN | AI/ML  
+- 🛠️ Skilled in: Spring Boot, React, Node.js, Python, MongoDB  
+- 🌱 Currently learning: DevOps, Advanced ML  
+- 🧠 Motto: _"Write clean code. Keep learning. Keep building."
 ---
 
 <!-- 🔮 SKILL ICONS -->
