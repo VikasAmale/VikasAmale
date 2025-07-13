@@ -1,7 +1,14 @@
 <!-- VikasAmale/README.md -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Vikas+Amale+👨‍💻;Final+Year+Engineer+%7C+Java+Developer+%7C+AI+%7C+ML+Enthusiast;Turning+Coffee+☕+into+Code+🚀;Always+Learning+%7C+Always+Building+💡" alt="Typing SVG" />
+  <img src="https://i.gifer.com/ZZ5H.gif" width="200"/>
+</p>
+
+<h2 align="center">Hey there! I'm <span style="color:#00ffff;">Vikas Amale</span> 👨‍💻</h2>
+
+<p align="center">
+  Final Year Engineer • Java Developer • AI/ML Enthusiast <br/>
+  Turning ☕ into Code 🚀 • Always Learning 💡
 </p>
 
 
