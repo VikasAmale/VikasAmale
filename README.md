@@ -10,9 +10,10 @@
 
 ## 🔥 About Me
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-Developer-%23f89820?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%2FML-Enthusiast-%2300f7ff?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java%20Developer-%2300f7ff?style=for-the-badge&logo=java&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AI%2FML%20Enthusiast-%2300f7ff?style=for-the-badge&logo=tensorflow&logoColor=black"/>
 </div>
+
 
 - 🔥 Passionate Engineer | Problem Solver | Tech Explorer
 - 🎓 Final Year Engineering Student  
