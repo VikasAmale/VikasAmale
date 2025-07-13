@@ -14,7 +14,7 @@
 ## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,springBoot,react,mongodb,mysql,git,github,html,css,js,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=java,python,springboot,react,mongodb,mysql,git,github,html,css,js,bootstrap" />
 </p>
 
 
