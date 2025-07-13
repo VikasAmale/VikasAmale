@@ -19,10 +19,7 @@
 
 ## 🧰 Tech Toolbox
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,spring,react,mongodb,mysql,git,github,html,css,js,bootstrap" />
-</p>
-
+<div align="center" style="margin: 20px 0;"> <img src="https://skillicons.dev/icons?i=java,python,spring,react,nodejs,mongodb,mysql,git,github,html,css,js,bootstrap" /> <br><br> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> </div>
 
 
 ## 🚀 My Top Projects
