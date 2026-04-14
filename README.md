@@ -26,13 +26,11 @@
 ### Who I Am
 
 ```yaml
-name       : Vikas Amale
-location   : Sangamner, Maharashtra, India
-education  : B.E. Computer Engineering — SPPU
-cgpa       : 9.65 / 10.0
-role       : Software Engineer | Full Stack | AI/ML
-focus      : Scalable systems · Clean architecture
-              Production-ready ML pipelines
+Name       : Vikas Amale
+Location   : Sangamner, Maharashtra, India
+Education  : B.E. Computer Engineering — SPPU
+Role       : Software Engineer | Java Full Stack
+Focus      : Scalable systems | Production-ready ML pipelines
 open_to    : Full-time SWE / Developer roles (2025–26)
 ```
 
@@ -172,11 +170,8 @@ Binary classification ML pipeline for detecting fraudulent credit card transacti
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ML system to predict customer churn for subscription businesses — delivering actionable retention insights through an interactive Streamlit dashboard for non-technical stakeholders.
-
 - Ensemble models: Random Forest & XGBoost for churn prediction
 - Feature importance analysis and model interpretability layer
-- Interactive Streamlit dashboard for business users
-- End-to-end pipeline from raw data to business insight
 
 `XGBoost` `Random Forest` `Streamlit` `Business Intelligence`
 
