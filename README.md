@@ -1,7 +1,17 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=200&section=header&text=Vikas%20Amale&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20AI/ML%20Engineer&descFontColor=94c7f5&descAlignY=62&descSize=17&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Microservices;MySQL+%7C+AWS+Cloud+Services;Building+Scalable+Enterprise+Applications" alt="Typing SVG" />
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=200&section=header&text=Vikas%20Amale&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2+Full+Stack+Developer&descFontColor=94c7f5&descAlignY=62&descSize=17&animation=fadeIn" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+MySQL+%7C+AWS" alt="Typing SVG" />
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-amale)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vickyamale2004@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/VikasAmale)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Vikas_Amale/)
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-amale)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vickyamale2004@gmail.com)
