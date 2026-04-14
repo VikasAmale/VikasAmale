@@ -64,11 +64,14 @@ I build scalable systems and production-ready ML pipelines. With a **CGPA of 9.6
 ---
 
 <div align="center">
-*"First, solve the problem. Then, write the code."*
 
-**Open to Software Engineer · Full Stack Developer · ML Engineer roles**
+## 📩 Let's Connect
+**I am currently open to Full-time roles for 2025–2026.**
 
-[![Email](https://img.shields.io/badge/Get%20In%20Touch-vickyamale2004%40gmail.com-0ea5e9?style=flat-square&logo=gmail&logoColor=white)](mailto:vickyamale2004@gmail.com)
+<br/>
 
+[![Get In Touch](https://img.shields.io/badge/GET%20IN%20TOUCH-vickyamale2004%40gmail.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vickyamale2004@gmail.com)
+
+</div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=120&section=footer" />
 </div>
