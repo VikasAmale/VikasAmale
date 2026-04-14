@@ -52,11 +52,6 @@ I build scalable systems and production-ready ML pipelines. With a **CGPA of 9.6
 
 ---
 
-### 📈 GitHub Activity
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VikasAmale&theme=github-compact&hide_border=true&area=true" width="100%"/>
-</div>
-
 ---
 
 ### 🏆 Recognitions & Certs
