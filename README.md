@@ -114,10 +114,8 @@ React.js / JSP
 CNN-based deep learning system for automated cancer classification from medical images. Reduces manual screening workload with real-time inference and an interactive clinician dashboard.
 - RESTful Python backend for real-time model inference
 - React.js frontend with clinician dashboard & report visualization
-- End-to-end full-stack AI diagnostic tool
+  
 `CNN` `Deep Learning` `Medical AI` `System Design`
-[![View Project](https://img.shields.io/badge/View%20Repository-%230f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/VikasAmale)
-
 </td>
 <td width="50%" valign="top">
 
