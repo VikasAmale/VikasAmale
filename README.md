@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A3A5C,100:0ea5e9&height=180&section=header&text=Vikas%20Amale&fontSize=52&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Builder&descAlignY=60&fontColor=ffffff&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A3A5C,100:0ea5e9&height=180&section=header&text=Vikas%20Amale&fontSize=52&fontAlignY=38&desc=Software%20Engineer%20%7C%20Java Full%20Stack%20Developer%20%7C%20AI%2FML%20Builder&descAlignY=60&fontColor=ffffff&descSize=18" />
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=0EA5E9&center=true&vCenter=true&width=750&lines=Java+%7C+Spring+Boot+%7C+REST+API+Developer;Python+%7C+Machine+Learning+%7C+Deep+Learning;Building+scalable%2C+production-ready+systems;CGPA+9.65+%E2%80%A2+Hackathon+Participant+%E2%80%A2+Scholarship+Recipient" />
