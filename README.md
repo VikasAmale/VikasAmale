@@ -1,92 +1,69 @@
-# Vikas Amale
+# 🚀 Vikas Amale
+**Software Engineer | Full Stack Developer | AI/ML Engineer**
 
-## Software Engineer | Full Stack Developer | AI/ML Engineer
-
-📍 Sangamner, Maharashtra, India  
-📧 vickyamale2004@gmail.com  
-
-🔗 [LinkedIn](https://www.linkedin.com/in/vikas-amale)  
-🔗 [GitHub](https://github.com/VikasAmale)  
-🔗 [Portfolio](https://portfolio-eta-opal-69.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-amale)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-eta-opal-69.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Vikas_Amale/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vickyamale2004@gmail.com)
 
 ---
 
-## Summary
-Computer Engineering graduate with strong skills in Java, Spring Boot, and Machine Learning. Experienced in building scalable backend systems, REST APIs, and end-to-end ML solutions.
+### 💫 About Me
+I am a Computer Engineering student (SPPU) with a **9.65 CGPA**, specializing in building scalable backend systems and production-ready ML pipelines. I bridge the gap between robust software architecture (Java/Spring Boot) and intelligent data insights (Python/TensorFlow).
+
+- 🎓 **Education:** B.E. in Computer Engineering (2022–2026)
+- 🛠️ **Current Focus:** Microservices Architecture & Deep Learning for Healthcare.
+- 🏆 **Achievements:** Cybage Khushboo Scholar | University-level Research (Avishkar).
 
 ---
 
-## Technical Skills
+### 🛠️ Tech Stack & Skills
 
-- **Languages:** Java, Python, JavaScript, SQL  
-- **Backend:** Spring Boot, REST APIs, Microservices  
-- **Frontend:** React.js  
-- **AI/ML:** scikit-learn, TensorFlow, Pandas, NumPy  
-- **Database:** MySQL, MongoDB  
-- **Tools:** AWS, Docker, Git, Maven  
-
----
-
-## Projects
-
-### Automated Cancer Detection System
-- CNN-based medical image classification system  
-- Achieved >90% accuracy  
-- Built REST API and React dashboard  
-
-### Doctor Appointment System
-- Role-based system (Admin, Doctor, Patient)  
-- JWT authentication and REST APIs  
-- Built with Spring Boot, MySQL, React  
-
-### Credit Card Fraud Detection
-- Achieved 95.6% accuracy using ML  
-- Used SMOTE for handling imbalanced data  
-- Evaluated with F1-score and ROC-AUC  
-
-### Customer Churn Prediction
-- Built using Random Forest and XGBoost  
-- Developed Streamlit dashboard  
-- Provided business insights  
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Backend** | Java (8/11+), Spring Boot, Microservices, REST APIs, JWT, Maven |
+| **AI / ML** | Python, TensorFlow (CNN), Scikit-Learn, Pandas, NumPy, XGBoost |
+| **Cloud & DB** | AWS (S3, Glue, Redshift), Docker, MySQL, MongoDB |
+| **Frontend** | React.js, JavaScript, HTML5/CSS3 |
 
 ---
 
-## Experience
+### 📂 Featured Projects
 
-**AIML Intern – Besant Technologies**
-- Built ML models and preprocessing pipelines  
-- Evaluated using precision, recall, F1-score  
+#### 🏥 [Automated Cancer Detection](https://github.com/VikasAmale)
+*Deep Learning / Full Stack*
+- Built a **CNN-based system** achieving **90%+ accuracy** in medical image classification.
+- Integrated a Python backend with a **React.js clinician dashboard** for real-time diagnostics.
 
-**Data Engineering Intern – AWS Academy**
-- Built ETL pipelines using AWS Glue, S3, Redshift  
-- Designed data lake architecture  
+#### 📅 [Doctor Appointment System](https://github.com/VikasAmale)
+*Java / Spring Boot / Microservices*
+- Developed a secure, role-based platform using **Microservices architecture** and **JWT Auth**.
+- Implemented optimized SQL query designs to handle multi-role scheduling (Admin/Doctor/Patient).
 
----
-
-## Education
-
-**B.E. Computer Engineering (SPPU)**  
-CGPA: 9.65 / 10  
-
----
-
-## Achievements
-
-- Cybage Khushboo Scholarship  
-- Amrut Meritorious Scholarship  
-- Avishkar Research Competition (University Level)  
-- InnovateYou Techathon Participant  
+#### 💳 [Credit Card Fraud Detection](https://github.com/VikasAmale)
+*Machine Learning / Analytics*
+- Solved data imbalance using **SMOTE**, achieving a **95.6% accuracy** rating.
+- Built a full pipeline from EDA to evaluation (ROC-AUC, F1-Score).
 
 ---
 
-## Certifications
+### 💼 Professional Experience
 
-- Java Programming (Coursera)  
-- Introduction to Artificial Intelligence (Coursera)  
-- Java Bootcamp  
+* **AIML Intern** @ Besant Technologies (July – Aug 2025)
+* **Data Engineering Intern** @ AWS Academy (July – Sept 2024)
 
 ---
 
-## Career Objective
+### 📊 GitHub Stats
 
-Seeking Software Engineer / Full Stack / AI-ML roles to build scalable and impactful systems.
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=VikasAmale&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikasAmale&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+---
+
+<p align="center">
+  <b>Let's build something impactful.</b><br>
+  <i>"First, solve the problem. Then, write the code."</i>
+</p>
