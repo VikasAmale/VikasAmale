@@ -7,22 +7,17 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+Microservices+%7C+REST+API;Python+%7C+TensorFlow+%7C+scikit-learn+%7C+Deep+Learning;AWS+%7C+Docker+%7C+MySQL+%7C+MongoDB;CGPA+9.65+%E2%80%A2+AWS+Intern+%E2%80%A2+AIML+Intern+%E2%80%A2+Scholarship+Recipient" alt="Typing SVG" />
-
-<br/><br/>
-
+<br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-amale)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vickyamale2004@gmail.com)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/VikasAmale)&nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Vikas_Amale/)&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-eta-opal-69.vercel.app/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=VikasAmale&style=flat-square&color=0ea5e9&label=Profile+Views)
 
 </div>
 
 ---
-
-
 ### Who I Am
 
 ```yaml
@@ -39,7 +34,6 @@ open_to    : Full-time SWE / Developer roles (2025–26)
 <br clear="right"/>
 
 ---
-
 ### Tech Stack
 
 <table>
@@ -118,10 +112,6 @@ React.js / JSP
 CNN-based deep learning system for automated cancer classification from medical images. Reduces manual screening workload with real-time inference and an interactive clinician dashboard.
 - RESTful Python backend for real-time model inference
 - React.js frontend with clinician dashboard & report visualization
-
-
-`CNN` `Deep Learning` `Medical AI` `System Design`
-
 [![View Project](https://img.shields.io/badge/View%20Repository-%230f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/VikasAmale)
 
 </td>
@@ -137,9 +127,6 @@ Full-stack appointment management platform with role-based access control. Built
 - JWT-based secure authentication & API integration
 - RESTful APIs for booking, scheduling & notifications
 - MVC architecture with optimized database query design
-
-`Spring Boot` `Microservices` `JWT Auth` `Full Stack`
-
 [![View Project](https://img.shields.io/badge/View%20Repository-%230f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/VikasAmale)
 
 </td>
@@ -156,9 +143,6 @@ Binary classification ML pipeline for detecting fraudulent credit card transacti
 - Full EDA and feature engineering pipeline
 - Evaluated with F1-score, Precision, Recall, ROC-AUC
 - Handles real-world class imbalance via SMOTE oversampling
-
-`Machine Learning` `SMOTE` `Fraud Detection` `Classification`
-
 [![View Project](https://img.shields.io/badge/View%20Repository-%230f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/VikasAmale)
 
 </td>
@@ -172,9 +156,6 @@ Binary classification ML pipeline for detecting fraudulent credit card transacti
 ML system to predict customer churn for subscription businesses — delivering actionable retention insights through an interactive Streamlit dashboard for non-technical stakeholders.
 - Ensemble models: Random Forest & XGBoost for churn prediction
 - Feature importance analysis and model interpretability layer
-
-`XGBoost` `Random Forest` `Streamlit` `Business Intelligence`
-
 [![View Project](https://img.shields.io/badge/View%20Repository-%230f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/VikasAmale)
 
 </td>
@@ -197,9 +178,7 @@ ML system to predict customer churn for subscription businesses — delivering a
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VikasAmale&theme=github-compact&hide_border=true&area=true" width="95%"/>
 </div>
-
 ---
-
 ### Achievements & Recognition
 
 <div align="center">
@@ -212,9 +191,7 @@ ML system to predict customer churn for subscription businesses — delivering a
 | 💡 **InnovateYou Techathon 2.0** | Participated in National-level 24-hour competitive hackathon |
 
 </div>
-
 ---
-
 ### Certifications
 
 <div align="center">
