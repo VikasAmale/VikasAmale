@@ -1,185 +1,257 @@
 <div align="center">
 
-<!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A3A5C,100:0ea5e9&height=180&section=header&text=Vikas%20Amale&fontSize=52&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Builder&descAlignY=60&fontColor=ffffff&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=200&section=header&text=Vikas%20Amale&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20AI%2FML%20Engineer&descFontColor=94c7f5&descAlignY=62&descSize=17&animation=fadeIn" />
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=0EA5E9&center=true&vCenter=true&width=750&lines=Java+%7C+Spring+Boot+%7C+REST+API+Developer;Python+%7C+Machine+Learning+%7C+Deep+Learning;Building+scalable%2C+production-ready+systems;CGPA+9.65+%E2%80%A2+Hackathon+Participant+%E2%80%A2+Scholarship+Recipient" />
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+Microservices+%7C+REST+API;Python+%7C+TensorFlow+%7C+scikit-learn+%7C+Deep+Learning;AWS+%7C+Docker+%7C+MySQL+%7C+MongoDB;CGPA+9.65+%E2%80%A2+AWS+Intern+%E2%80%A2+AIML+Intern+%E2%80%A2+Scholarship+Recipient" alt="Typing SVG" />
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-amale)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vickyamale2004@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/VikasAmale)&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Vikas_Amale/)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-eta-opal-69.vercel.app/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=VikasAmale&style=flat-square&color=0ea5e9&label=Profile+Views)
+
+</div>
+
+---
+
+<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+
+### Who I Am
+
+```yaml
+name       : Vikas Amale
+location   : Sangamner, Maharashtra, India
+education  : B.E. Computer Engineering — SPPU
+cgpa       : 9.65 / 10.0
+role       : Software Engineer | Full Stack | AI/ML
+focus      : Scalable systems · Clean architecture
+              Production-ready ML pipelines
+open_to    : Full-time SWE / Developer roles (2025–26)
+```
+
+**What drives me:** I build things that work at scale — from Java microservices and REST APIs to CNN-based medical AI systems. Every project I take on, I care about system design, clean code, and measurable outcomes.
+
+<br clear="right"/>
+
+---
+
+### Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Languages**
+```
+Java (Core 8+, J2EE)     ████████████  Expert
+Python                   ███████████   Advanced
+JavaScript               █████████     Intermediate
+SQL                      ███████████   Advanced
+```
+
+**Backend**
+```
+Spring Boot              ████████████  Expert
+REST API / Microservices ██████████    Advanced
+Spring MVC / SOLID       █████████     Advanced
+JWT Auth / System Design █████████     Advanced
+```
+
+</td>
+<td valign="top" width="50%">
+
+**AI / ML**
+```
+scikit-learn             ██████████    Advanced
+TensorFlow / CNN         █████████     Intermediate
+Pandas / NumPy           ██████████    Advanced
+Feature Eng / ROC-AUC    █████████     Intermediate
+```
+
+**Cloud & Tools**
+```
+AWS (Glue/S3/Redshift)   █████████     Intermediate
+Docker / Maven / Git     ██████████    Advanced
+MySQL / MongoDB          ██████████    Advanced
+React.js / JSP           ████████      Intermediate
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+---
+
+### Featured Projects
+
+> Production-grade systems across healthcare AI, backend engineering, and machine learning.
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-amale)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vickyamale2004@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VikasAmale)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Vikas_Amale/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1A3A5C?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-eta-opal-69.vercel.app/)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-</div>
+#### 🏥 Automated Cancer Detection System
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![REST API](https://img.shields.io/badge/REST%20API-0f172a?style=flat-square)
 
----
+CNN-based deep learning system for automated cancer classification from medical images. Reduces manual screening workload with real-time inference and an interactive clinician dashboard.
 
-## About Me
-
-I'm a **Final Year Computer Engineering student** at Amrutvahini College of Engineering (SPPU) with a **CGPA of 9.65**. I design and build scalable backend systems, full-stack web applications, and machine learning pipelines — with a focus on clean architecture and production-ready code.
-
-- 🎓 **B.E. Computer Engineering** — SPPU, Sangamner (2022–Present)
-- 💼 **Interned** at AWS Academy (Data Engineering) and Besant Technologies (AI/ML)
-- 🏆 **Cybage Khushboo Scholar** · Avishkar Research Competition Selectee · InnovateYou Techathon 2.0 Participant
-- 🔭 **Currently building:** Automated Cancer Detection System (Final Year Project)
-- 📌 **Goal:** Secure a Software Engineer / Full Stack Developer role and contribute to impactful products
-- 💬 **Ask me about:** Java, Spring Boot, REST APIs, ML pipelines, AWS
-
----
-
-## Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Backend & Frameworks**
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-1A3A5C?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**AI / ML**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-
-</div>
-
----
-
-## Pinned Projects
-
-> Four production-grade projects spanning healthcare AI, backend systems, and machine learning.
-
----
-
-### 🏥 1. Automated Cancer Detection System
-> **Final Year Project** · Python · CNN · TensorFlow · React.js · REST API
-
-A deep learning system that classifies cancer from medical images using a CNN architecture, achieving **>90% classification accuracy**. Reduces manual screening effort with real-time inference through a Python REST backend and interactive React.js clinician dashboard.
-
-**Key highlights:**
-- CNN model trained on annotated medical image datasets
+- **>90% classification accuracy** on medical image datasets
 - RESTful Python backend for real-time model inference
-- React.js frontend with dashboard and automated report visualization
-- Significant reduction in manual diagnostic effort
+- React.js frontend with clinician dashboard & report visualization
+- End-to-end full-stack AI diagnostic tool
 
-[![Repo](https://img.shields.io/badge/View%20Repository-1A3A5C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VikasAmale)
+`CNN` `Deep Learning` `Medical AI` `System Design`
 
----
+[![View Project](https://img.shields.io/badge/View%20Repository-%230f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/VikasAmale)
 
-### 📅 2. Doctor Appointment & Schedule Master
-> Java · Spring Boot · REST API · MySQL · React.js · JWT Auth
+</td>
+<td width="50%" valign="top">
 
-A full-stack appointment management platform with **role-based access control** for Admin, Doctor, and Patient. Built following Microservices Architecture, SOLID principles, and SDLC best practices.
+#### 📅 Doctor Appointment & Schedule Master
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-**Key highlights:**
-- 3 role-based access control panels (Admin / Doctor / Patient)
-- RESTful APIs for booking, scheduling, and notifications
-- JWT-based secure authentication
-- MVC architecture with optimized database queries
+Full-stack appointment management platform with role-based access control. Built on Microservices Architecture, SOLID principles, and SDLC best practices.
 
-[![Repo](https://img.shields.io/badge/View%20Repository-1A3A5C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VikasAmale)
+- **3 role-based control panels** — Admin, Doctor, Patient
+- JWT-based secure authentication & API integration
+- RESTful APIs for booking, scheduling & notifications
+- MVC architecture with optimized database query design
 
----
+`Spring Boot` `Microservices` `JWT Auth` `Full Stack`
 
-### 💳 3. Credit Card Fraud Detection
-> Python · scikit-learn · Logistic Regression · SMOTE · Pandas
+[![View Project](https://img.shields.io/badge/View%20Repository-%230f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/VikasAmale)
 
-A binary classification ML pipeline to detect fraudulent credit card transactions on highly imbalanced data, achieving **95.6% accuracy** with SMOTE oversampling.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Key highlights:**
-- SMOTE oversampling to handle severe class imbalance
-- Logistic Regression with 95.6% accuracy
-- Evaluated with Precision, Recall, F1-score, and ROC-AUC
-- Complete EDA and feature engineering pipeline
+#### 💳 Credit Card Fraud Detection
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/View%20Repository-1A3A5C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VikasAmale)
+Binary classification ML pipeline for detecting fraudulent credit card transactions on severely imbalanced financial data — with a complete EDA-to-evaluation workflow.
 
----
+- **95.6% accuracy** with SMOTE-balanced Logistic Regression
+- Full EDA and feature engineering pipeline
+- Evaluated with F1-score, Precision, Recall, ROC-AUC
+- Handles real-world class imbalance via SMOTE oversampling
 
-### 📉 4. Customer Churn Prediction System
-> Python · scikit-learn · XGBoost · Pandas · Matplotlib · Streamlit
+`Machine Learning` `SMOTE` `Fraud Detection` `Classification`
 
-A machine learning system to predict customer churn for subscription-based businesses, enabling proactive retention strategies with an interactive Streamlit dashboard.
+[![View Project](https://img.shields.io/badge/View%20Repository-%230f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/VikasAmale)
 
-**Key highlights:**
-- Ensemble models (Random Forest, XGBoost) for churn classification
-- Full EDA, feature importance analysis, and model interpretation
+</td>
+<td width="50%" valign="top">
+
+#### 📉 Customer Churn Prediction System
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+ML system to predict customer churn for subscription businesses — delivering actionable retention insights through an interactive Streamlit dashboard for non-technical stakeholders.
+
+- Ensemble models: Random Forest & XGBoost for churn prediction
+- Feature importance analysis and model interpretability layer
 - Interactive Streamlit dashboard for business users
-- Actionable retention insight generation
+- End-to-end pipeline from raw data to business insight
 
-[![Repo](https://img.shields.io/badge/View%20Repository-1A3A5C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VikasAmale)
+`XGBoost` `Random Forest` `Streamlit` `Business Intelligence`
+
+[![View Project](https://img.shields.io/badge/View%20Repository-%230f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/VikasAmale)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub Stats
+### Professional Experience
+
+| Period | Role | Organization | Key Contribution |
+|:---|:---|:---|:---|
+| Jul – Aug 2025 | **AIML Intern** | Besant Technologies *(Remote)* | Developed supervised ML models; built end-to-end preprocessing pipelines with scikit-learn and Pandas; evaluated with precision, recall, F1, ROC-AUC |
+| Jul – Sep 2024 | **Data Engineering Intern** | AWS Academy *(Remote)* | Built ETL pipelines with AWS Glue, S3, Redshift; architected a data lake using Lake Formation; automated monitoring via CloudWatch |
+
+---
+
+### GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VikasAmale&show_icons=true&theme=github_dark&hide_border=true&hide=prs,stars&rank_icon=github" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikasAmale&layout=compact&theme=github_dark&hide_border=true" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=VikasAmale&show_icons=true&theme=github_dark_dimmed&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=GitHub+Overview" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikasAmale&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=6" width="39%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VikasAmale&theme=github-dark-blue&hide_border=true" width="55%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VikasAmale&theme=github-dark-blue&hide_border=true" width="56%"/>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=VikasAmale&label=Profile+Views&color=0ea5e9&style=for-the-badge)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VikasAmale&theme=github-compact&hide_border=true&area=true" width="95%"/>
 
 </div>
 
 ---
 
-## Certifications
+### Achievements & Recognition
 
-| Certification | Platform |
-|---|---|
-| The Java Language (Beginner to Advanced) | Coursera |
-| Introduction to Artificial Intelligence (Beginner to Advanced) | Coursera |
-| Java Bootcamp | Talent Battle |
+<div align="center">
+
+| Recognition | Details |
+|:---|:---|
+| 🏆 **Cybage Khushboo Scholarship** | Merit-based scholarship recognizing academic and professional potential |
+| 🎓 **Amrut-Meritorious Scholarship** | Awarded for being a top academic performer — CGPA 9.65 / 10.0 |
+| 🔬 **Avishkar Research Competition** | Selected at University level for original engineering research |
+| 💡 **InnovateYou Techathon 2.0** | Participated in National-level 24-hour competitive hackathon |
+
+</div>
 
 ---
 
-## Achievements
+### Certifications
 
-| Achievement | Details |
-|---|---|
-| 🏆 Cybage Khushboo Scholarship | Merit-based scholarship for academic excellence |
-| 🔬 Avishkar Research Competition | Selected at University level |
-| 💡 InnovateYou Techathon 2.0 | National-level 24-hour hackathon participant |
-| 🎓 Amrut-Meritorious Scholarship | Awarded for being a top academic performer |
+<div align="center">
+
+[![Java Coursera](https://img.shields.io/badge/The%20Java%20Language%20%28Beginner%20to%20Advanced%29-Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://coursera.org)&nbsp;
+[![AI Coursera](https://img.shields.io/badge/Introduction%20to%20Artificial%20Intelligence-Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://coursera.org)&nbsp;
+[![Java Bootcamp](https://img.shields.io/badge/Java%20Bootcamp-Talent%20Battle-0f172a?style=flat-square)](https://talentbattle.in)
+
+</div>
 
 ---
 
@@ -187,6 +259,14 @@ A machine learning system to predict customer churn for subscription-based busin
 
 *"First, solve the problem. Then, write the code."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1A3A5C&height=120&section=footer"/>
+<br/>
+
+**Open to Software Engineer · Full Stack Developer · ML Engineer roles**
+
+[![Email](https://img.shields.io/badge/Get%20In%20Touch-vickyamale2004%40gmail.com-0ea5e9?style=flat-square&logo=gmail&logoColor=white)](mailto:vickyamale2004@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=120&section=footer" />
 
 </div>
