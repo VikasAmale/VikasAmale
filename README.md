@@ -7,6 +7,7 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+Microservices+%7C+REST+API;Python+%7C+TensorFlow+%7C+scikit-learn+%7C+Deep+Learning;AWS+%7C+Docker+%7C+MySQL+%7C+MongoDB;CGPA+%E2%80%A2+AWS+Intern+%E2%80%A2+AIML+Intern+%E2%80%A2" alt="Typing SVG" />
+
 <br/><br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-amale)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vickyamale2004@gmail.com)&nbsp;
