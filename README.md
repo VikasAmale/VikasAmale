@@ -95,77 +95,16 @@ React.js / JSP
 
 ---
 
-### Featured Projects
+### 📂 Featured Projects
 
-> Production-grade systems across healthcare AI, backend engineering, and machine learning.
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🏥 Automated Cancer Detection System
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![REST API](https://img.shields.io/badge/REST%20API-0f172a?style=flat-square)
-
-CNN-based deep learning system for automated cancer classification from medical images. Reduces manual screening workload with real-time inference and an interactive clinician dashboard.
-- RESTful Python backend for real-time model inference
-- React.js frontend with clinician dashboard & report visualization
-  
-`CNN` `Deep Learning` `Medical AI` `System Design`
-</td>
-<td width="50%" valign="top">
-
-#### 📅 Doctor Appointment & Schedule Master
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-Full-stack appointment management platform with role-based access control. Built on Microservices Architecture, SOLID principles, and SDLC best practices.
-- JWT-based secure authentication & API integration
-- RESTful APIs for booking, scheduling & notifications
-  
-`Spring Boot` `Microservices` `JWT Auth` `Full Stack`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 💳 Credit Card Fraud Detection
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-Binary classification ML pipeline for detecting fraudulent credit card transactions on severely imbalanced financial data — with a complete EDA-to-evaluation workflow.
-- Full EDA and feature engineering pipeline
-- Evaluated with F1-score, Precision, Recall, ROC-AUC
-  
-`Machine Learning` `SMOTE` `Fraud Detection` `Classification`
-</td>
-<td width="50%" valign="top">
-
-#### 📉 Customer Churn Prediction System
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-ML system to predict customer churn for subscription businesses — delivering actionable retention insights through an interactive Streamlit dashboard for non-technical stakeholders.
-- Ensemble models: Random Forest & XGBoost for churn prediction
-- Feature importance analysis and model interpretability layer
-  
-`XGBoost` `Random Forest` `Streamlit` `Business Intelligence`
-
-</td>
-</tr>
-</table>
+| Project | Tech Stack | Key Impact |
+| :--- | :--- | :--- |
+| **🏥 Cancer Detection** | `CNN` `TensorFlow` `React` | Built a diagnostic tool with **90%+ accuracy** & real-time clinician dashboard. |
+| **📅 Appointment Master** | `Spring Boot` `Microservices` | Architected a secure **RBAC system** with JWT & automated scheduling notifications. |
+| **💳 Fraud Shield** | `Python` `Scikit-Learn` | Developed a pipeline handling extreme imbalance via **SMOTE** for financial security. |
+| **📉 Churn Analytics** | `XGBoost` `Streamlit` | Integrated **Ensemble models** to provide actionable retention insights for business users. |
 
 ---
-
 ### Professional Experience
 
 | Period | Role | Organization | Key Contribution |
