@@ -1,7 +1,4 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=200&section=header&text=Vikas%20Amale&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20AI/ML%20Engineer&descFontColor=94c7f5&descAlignY=62&descSize=17&animation=fadeIn" />
-
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=200&section=header&text=Vikas%20Amale&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2+Full+Stack+Developer&descFontColor=94c7f5&descAlignY=62&descSize=17&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+MySQL+%7C+AWS" alt="Typing SVG" />
