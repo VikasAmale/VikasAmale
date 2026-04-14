@@ -22,7 +22,6 @@
 
 ---
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 ### Who I Am
 
@@ -51,18 +50,18 @@ open_to    : Full-time SWE / Developer roles (2025–26)
 
 **Languages**
 ```
-Java (Core 8+, J2EE)     ████████████  Expert
-Python                   ███████████   Advanced
-JavaScript               █████████     Intermediate
-SQL                      ███████████   Advanced
+Java (Core 8+, J2EE)     
+Python                   
+JavaScript               
+SQL                      
 ```
 
 **Backend**
 ```
-Spring Boot              ████████████  Expert
-REST API / Microservices ██████████    Advanced
-Spring MVC / SOLID       █████████     Advanced
-JWT Auth / System Design █████████     Advanced
+Spring Boot              
+REST API / Microservices 
+Spring MVC / SOLID       
+JWT Auth / System Design 
 ```
 
 </td>
@@ -70,18 +69,18 @@ JWT Auth / System Design █████████     Advanced
 
 **AI / ML**
 ```
-scikit-learn             ██████████    Advanced
-TensorFlow / CNN         █████████     Intermediate
-Pandas / NumPy           ██████████    Advanced
-Feature Eng / ROC-AUC    █████████     Intermediate
+scikit-learn             
+TensorFlow / CNN         
+Pandas / NumPy           
+Feature Eng / ROC-AUC    
 ```
 
 **Cloud & Tools**
 ```
-AWS (Glue/S3/Redshift)   █████████     Intermediate
-Docker / Maven / Git     ██████████    Advanced
-MySQL / MongoDB          ██████████    Advanced
-React.js / JSP           ████████      Intermediate
+AWS (Glue/S3/Redshift)   
+Docker / Maven / Git    
+MySQL / MongoDB          
+React.js / JSP          
 ```
 
 </td>
@@ -95,13 +94,8 @@ React.js / JSP           ████████      Intermediate
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
@@ -124,11 +118,9 @@ React.js / JSP           ████████      Intermediate
 ![REST API](https://img.shields.io/badge/REST%20API-0f172a?style=flat-square)
 
 CNN-based deep learning system for automated cancer classification from medical images. Reduces manual screening workload with real-time inference and an interactive clinician dashboard.
-
-- **>90% classification accuracy** on medical image datasets
 - RESTful Python backend for real-time model inference
 - React.js frontend with clinician dashboard & report visualization
-- End-to-end full-stack AI diagnostic tool
+
 
 `CNN` `Deep Learning` `Medical AI` `System Design`
 
@@ -144,8 +136,6 @@ CNN-based deep learning system for automated cancer classification from medical 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 Full-stack appointment management platform with role-based access control. Built on Microservices Architecture, SOLID principles, and SDLC best practices.
-
-- **3 role-based control panels** — Admin, Doctor, Patient
 - JWT-based secure authentication & API integration
 - RESTful APIs for booking, scheduling & notifications
 - MVC architecture with optimized database query design
@@ -165,8 +155,6 @@ Full-stack appointment management platform with role-based access control. Built
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 Binary classification ML pipeline for detecting fraudulent credit card transactions on severely imbalanced financial data — with a complete EDA-to-evaluation workflow.
-
-- **95.6% accuracy** with SMOTE-balanced Logistic Regression
 - Full EDA and feature engineering pipeline
 - Evaluated with F1-score, Precision, Recall, ROC-AUC
 - Handles real-world class imbalance via SMOTE oversampling
@@ -212,18 +200,7 @@ ML system to predict customer churn for subscription businesses — delivering a
 ### GitHub Activity
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=VikasAmale&show_icons=true&theme=github_dark_dimmed&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=GitHub+Overview" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikasAmale&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=6" width="39%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VikasAmale&theme=github-dark-blue&hide_border=true" width="56%"/>
-
-<br/><br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VikasAmale&theme=github-compact&hide_border=true&area=true" width="95%"/>
-
 </div>
 
 ---
