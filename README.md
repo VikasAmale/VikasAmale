@@ -13,7 +13,7 @@
 ---
 
 ### ⚡ Quick Bio
-I build scalable systems and production-ready ML pipelines. With a **CGPA of 9.65**, I focus on the intersection of robust Java backends and intelligent AI solutions.
+I build scalable systems and production-ready ML pipelines. I focus on the intersection of robust Java backends and intelligent AI solutions.
 
 - 🔭 **Role:** Software Engineer | Full Stack | AI/ML
 - 🎓 **Education:** B.E. Computer Engineering — SPPU
