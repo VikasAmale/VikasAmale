@@ -46,8 +46,8 @@ I build scalable systems and production-ready ML pipelines. I focus on the inter
 
 ### 💼 Experience
 
-- **Java Intern** | Besant Technologies | *Jul – Aug 2025*
-  - Built end-to-end Java projects with help of Spring Boot and React.js 
+- **Aiml Intern** | Besant Technologies | *Jul – Aug 2025*
+  - Built end-to-end machine learning projects with help of python and scikit-learn.
 - **Data Engineering Intern** | AWS Academy | *Jul – Sep 2024*
   - Architected Data Lakes and ETL pipelines using AWS Glue, S3, and Redshift.
 
@@ -67,7 +67,7 @@ I build scalable systems and production-ready ML pipelines. I focus on the inter
 <div align="center">
 
 ## 📩 Let's Connect
-**I am currently open to Full-time roles for 2025–2026.**
+**I am currently open to Full-time roles for 2026–2027.**
 
 <br/>
 
