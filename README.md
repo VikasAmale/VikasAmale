@@ -137,7 +137,7 @@ The snake animation is **not** generated automatically just by adding this READM
 2. Push it to the `main`/`master` branch. It will auto-run once via `push`, then daily via the cron schedule, and on every run it generates the snake SVG onto a branch named `output`.
 3. That's it — the `<img>` tags in the **Contribution Snake** section above already point at `.../vikasamale/output/github-contribution-grid-snake(-dark).svg`, so they'll start rendering after the first successful run.
 
-```yaml
+
 name: Generate Snake Animation
 
 on:
@@ -169,7 +169,7 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+
 
 **Notes**
 - This workflow must live in the repo named exactly `vikasamale/vikasamale` (the special "profile README" repo) for it to render on your GitHub profile page.
