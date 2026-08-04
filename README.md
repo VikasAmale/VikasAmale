@@ -48,7 +48,7 @@ I'm a backend-focused Software Engineer specializing in Java and Spring Boot, wi
 
 ---
 
-### 💼 Experience
+### 💼 Industrial Training && Internship
 
 - **Java Full Stack Intern** | Besant Technologies | *Aug – Oct 2025*
   - Built responsive React.js UIs integrated with Java-based RESTful services; implemented secure auth with Spring Security and validated logic with JUnit.
