@@ -14,15 +14,15 @@
 
 ---
 
-### ⚡ Quick Bio
+### ⚡ About Me
 
-I build backend systems with Java and Spring Boot, and integrate them with practical AI/ML capabilities — most recently a deep-learning pipeline for multimodal medical image classification. I care about clean REST API design, reliable data layers, and shipping features that actually work end to end.
+I'm a backend-focused Software Engineer specializing in Java and Spring Boot, with hands-on experience extending traditional backend systems into AI/ML-powered applications — most recently designing a deep-learning pipeline for multimodal medical image classification. My focus is building REST APIs and data layers that are not just functional, but reliable, secure, and production-ready.
 
-- 🔭 **Role:** Software Engineer | Backend (Java/Spring Boot) | AI/ML Integration
-- 🎓 **Education:** B.E. Computer Engineering — Amrutvahini College of Engineering (SPPU)
-- 🎯 **Focus:** Scalable REST APIs, secure backend systems & AI-powered applications
+- 🔭 **Currently:** Software Engineer — Backend (Java/Spring Boot) · AI/ML Integration
+- 🎓 **Education:** B.E. in Computer Engineering, Amrutvahini College of Engineering (SPPU)
+- 🎯 **Core Focus:** Scalable REST API design, secure backend architecture & AI-powered application development
+- 🚀 **Open to:** Full-time Software Engineering roles for 2026–2027
 
----
 
 ### 🛠️ Technical Arsenal
 
