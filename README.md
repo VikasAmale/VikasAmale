@@ -42,6 +42,7 @@ I'm a backend-focused Software Engineer specializing in Java and Spring Boot, wi
 | Project | Tech Stack | Key Impact |
 | :--- | :--- | :--- |
 | **🧬 Automated Multimodal Cancer Detection System** | `Python` `CNN (TensorFlow/Keras)` `React.js` `REST API` | Final-year project — CNN pipeline classifying multimodal medical imagery, with a backend API serving real-time diagnostic predictions and a React dashboard for clinicians. |
+| **📚 Bookshelf Management Application** | `React.js` `React DOM` `Redux Toolkit` `Firebase` `Firestore` | Full-stack library management app with real-time data sync via Firestore; used Redux Toolkit for centralized, predictable state management across book inventory, user shelves, and reading status. |
 | **✅ Employee Task Management System** | `Java` `Spring Boot` `MySQL` `Spring Data JPA` | REST APIs for task creation, assignment, and status tracking; Spring Data JPA + MySQL for reliable CRUD operations. |
 | **📦 Inventory & Stock Management System** | `Java` `Servlets` `JSP` `JDBC` `MySQL` | Web-based system for managing products, stock levels, and supplier records with a MySQL-backed data layer. |
 
