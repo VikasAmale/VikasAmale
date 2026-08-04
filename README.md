@@ -66,6 +66,17 @@ I build backend systems with Java and Spring Boot, and integrate them with pract
 ---
 
 <div align="center">
+  
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<!--START_SECTION:snake-->
+<img src="https://raw.githubusercontent.com/vikasamale/vikasamale/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Contribution snake animation" />
+<img src="https://raw.githubusercontent.com/vikasamale/vikasamale/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Contribution snake animation" />
+<!--END_SECTION:snake-->
+
+</div>
 
 ## 📩 Let's Connect
 
