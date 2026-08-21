@@ -59,8 +59,7 @@ I'm a backend-focused Software Engineer specializing in Java and Spring Boot, wi
 
 ### 🏆 Recognitions & Certs
 
-- 🥇 **3rd Prize:** InnovateYou Techathon 2.0
-- 🔬 **Avishkar Competition:** Final-year project selected at the university level
+- 📚 **IEEE Publication:** Research paper on the **Automated Multimodal Cancer Detection System** (Final-Year Project) published in an IEEE conference/publication
 - 🎓 **Amrut-Meritorious Scholarship:** Top academic performer (CGPA 8.81)
 - 📜 **Certifications:** Java Full Stack Development (Talent Battle) · Data Analytics Certification (Godrej Foundation)
 
